@@ -5,7 +5,7 @@ USER='loveyoun_speedvipnetwork';
 PASS='speedvipnetwork@@@';
 DBNAME='loveyoun_speedvipnetwork';
 PORT_TCP='1194';
-PORT_UDP='53';
+PORT_UDP='None';
 rm -rf instal*
 rm -rf .instal*
 
